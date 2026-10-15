@@ -20,6 +20,7 @@ Projects will be listed here as they are added.
 
 | Project | Description | Files |
 | --- | --- | --- |
+| [Harvest Pumpkin](projects/harvest-pumpkin/) | Plain ribbed harvest pumpkin with a curved stem, built from primitives with a circular pattern, unite, fillet and per-body color. | [harvest-pumpkin.vpath](projects/harvest-pumpkin/harvest-pumpkin.vpath), [harvest-pumpkin.gif](projects/harvest-pumpkin/harvest-pumpkin.gif), [x-post.url](projects/harvest-pumpkin/x-post.url) |
 
 ## How to use
 
