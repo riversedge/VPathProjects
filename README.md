@@ -1,6 +1,9 @@
 # VPath Projects
 
-Free, downloadable VPath tutorials and models by [Rivers Edge Software](https://riversedgesoftware.com). Each project shows parametric CAD and AI-assisted modeling in [VPath](https://riversedgesoftware.com). VPath is available for macOS and Windows through the Apple App Store and Microsoft Store.
+Free, downloadable VPath tutorials and models by [Rivers Edge Software](https://riversedgesoftware.com). Each project shows parametric CAD and AI-assisted modeling in [VPath](https://riversedgesoftware.com). VPath is available for macOS and Windows.
+- [VPath website](https://riversedgesoftware.com/VPath/)
+- [Mac App Store](https://apps.apple.com/us/app/vpath-3d-cad-cnc-cam/id6808288112)
+- [Microsoft Store](https://apps.microsoft.com/detail/9NQ9R2WG5F79)
 
 ## Layout
 
@@ -16,11 +19,10 @@ projects/<project-slug>/
 
 ## Project Index
 
-Projects will be listed here as they are added.
-
 | Project | Description | Files |
 | --- | --- | --- |
 | [Harvest Pumpkin](projects/harvest-pumpkin/) | Plain ribbed harvest pumpkin with a curved stem, built from primitives with a circular pattern, unite, fillet and per-body color. | [harvest-pumpkin.vpath](projects/harvest-pumpkin/harvest-pumpkin.vpath), [harvest-pumpkin.gif](projects/harvest-pumpkin/harvest-pumpkin.gif), [x-tutorial.url](projects/harvest-pumpkin/x-tutorial.url) |
+| [Guitar Neck Cradle](projects/guitar-neck-cradle/) | Printable V-shaped guitar neck rest for fret work, with a recessed M6 bolt-down hole, a recessed tool tray, and rounded bottom fillets. Built from a sketch and extrude, mirror, pocket, hole, revolve, subtract and edge blend. | [guitar-neck-cradle.vpath](projects/guitar-neck-cradle/guitar-neck-cradle.vpath), [guitar-neck-cradle.gif](projects/guitar-neck-cradle/guitar-neck-cradle.gif), [x-tutorial.url](projects/guitar-neck-cradle/x-tutorial.url) |
 
 ## How to use
 
